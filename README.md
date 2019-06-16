@@ -19,7 +19,6 @@ A curated list of awesome Speech Markdown projects, tools, frameworks, software,
 Projects under the official [speechmarkdown](https://github.com/speechmarkdown/) Github organization:
 
 - [Speech Markdown Reference docs](https://github.com/speechmarkdown/docs-speechmarkdown-reference)
-- [Speech Markdown Website](https://github.com/speechmarkdown/speechmarkdown-website)
 - [Speech Markdown Test Files](https://github.com/speechmarkdown/speechmarkdown-test-files)
 - [Awesome Speech Markdown](https://github.com/speechmarkdown/awesome-speechmarkdown)
 
