@@ -12,6 +12,7 @@ A curated list of awesome Speech Markdown projects, tools, frameworks, software,
 - [Frameworks & Libraries](#frameworks-libraries)
 - [Software](#software)
 - [Resources](#resources)
+- [Other Markdown Projects](#other-markdown-projects)
 
 
 ## Official Projects
@@ -33,6 +34,10 @@ Projects under the official [speechmarkdown](https://github.com/speechmarkdown/)
 ## Resources
 
 - Add yours here
+
+## Other Markdown Projects
+- [Speech Synthesis Markdown (SSMD) - Ruby](https://github.com/machisuji/ssmd)
+- [Speech Synthesis Markdown (SSMD) - JavaScript](https://github.com/fabien88/ssmd)
 
 ## Contribute
 
