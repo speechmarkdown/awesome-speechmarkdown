@@ -8,12 +8,13 @@ A curated list of awesome Speech Markdown projects, tools, frameworks, software,
 ## Follow Us
 - Twitter - [@speechmarkdown](https://twitter.com/speechmarkdown)
 - Slack - #speechmarkdown channel on [VoiceFirstSlack.com](http://voicefirstslack.com/)
+- YouTube - [Speech Markdown](https://www.youtube.com/channel/UCQ8M3CEhRDan8qIuptnF2IA/)
 
 ## Contents
 
 - [Official Projects](#official-projects)
 - [Frameworks & Libraries](#frameworks-libraries)
-- [Software](#software)
+- [Software & Tools](#software)
 - [Resources](#resources)
 - [Articles](#articles)
 - [Other Markdown Projects](#other-markdown-projects)
@@ -32,9 +33,9 @@ Projects under the official [speechmarkdown](https://github.com/speechmarkdown/)
 
 - Add yours here
 
-## Software
+## Software & Tools
 
-- Add yours here
+- [Alexa Fixer](http://alexafixer.com/) Chrome/Firefox extension
 
 ## Resources
 
