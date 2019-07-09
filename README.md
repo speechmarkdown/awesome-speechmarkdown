@@ -35,7 +35,7 @@ Projects under the official [speechmarkdown](https://github.com/speechmarkdown/)
 
 ## Software & Tools
 
-- [Alexa Fixer](http://alexafixer.com/) Chrome/Firefox extension
+- [Alexa Fixer](http://alexafixer.com/) Chrome extension/Firefox Add-on
 
 ## Resources
 
