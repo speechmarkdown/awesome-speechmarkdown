@@ -31,7 +31,7 @@ Projects under the official [speechmarkdown](https://github.com/speechmarkdown/)
 
 ## Frameworks & Libraries
 
-- Add yours here
+- [Jovo Plugin](https://github.com/speechmarkdown/jovo-plugin-speechmarkdown) and a [sample project](https://github.com/speechmarkdown/jovo-sample-speechmarkdown)
 
 ## Software & Tools
 
