@@ -35,18 +35,18 @@ Projects under the official [speechmarkdown](https://github.com/speechmarkdown/)
 - [Actions on Google plugin](https://github.com/actions-on-google-labs/dialogflow-speech-markdown-plugin-nodejs) on [NPM](https://www.npmjs.com/package/actions-on-google-speech-markdown-plugin)
 
 ## Software & Tools
-
-- [Alexa Fixer](http://alexafixer.com/) Chrome extension/Firefox Add-on
+- [Try Speech Markdown](https://www.speechmarkdown.org/try/) - Web App (Official)
+- [Alexa Fixer](http://alexafixer.com/) - Chrome extension/Firefox Add-on
 
 ## Resources
 
-- Add yours here
+- [SSML Guru](http://ssml.guru/) - Compare SSML Support in Voice Platforms
 
 ## Articles
 
 - 21 Jun 2019 - [Speech Markdown is the Simpler Way to Format Text-to-Speech Content Over SSML](https://voicebot.ai/2019/06/20/speech-markdown-is-the-simpler-way-to-format-text-to-speech-content-over-ssml/)
 
-## Other Markdown Projects
+## Other Markdown Alternative Projects
 - [Speech Synthesis Markdown (SSMD) - Ruby](https://github.com/machisuji/ssmd)
 - [Speech Synthesis Markdown (SSMD) - JavaScript](https://github.com/fabien88/ssmd)
 
