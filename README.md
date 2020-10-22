@@ -33,7 +33,7 @@ Projects under the official [speechmarkdown](https://github.com/speechmarkdown/)
 
 - [Jovo Plugin](https://github.com/speechmarkdown/jovo-plugin-speechmarkdown) and a [sample project](https://github.com/speechmarkdown/jovo-sample-speechmarkdown)
 - [Actions on Google plugin](https://github.com/actions-on-google-labs/dialogflow-speech-markdown-plugin-nodejs) on [NPM](https://www.npmjs.com/package/actions-on-google-speech-markdown-plugin)
-- [Speech Markdown for Elixir](https://github.com/spokestack/speechmarkdown-ex) on [Hex](https://hex.pm/packages/speechmarkdown)
+- [Speech Markdown for Elixir](https://github.com/speechmarkdown/speechmarkdown-ex)
 
 ## Software & Tools
 - [Try Speech Markdown](https://www.speechmarkdown.org/try/) - Web App (Official)
